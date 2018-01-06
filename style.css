@@ -1,0 +1,171 @@
+//-----------------------------------------------
+//|                                             |
+//|           Coded by : Wannes Van Dorpe       |
+//|                                             |
+//-----------------------------------------------
+
+@import "http://fonts.googleapis.com/css?family=Raleway";
+body{
+font-family:'Raleway',sans-serif
+}
+#first{
+width:350px;
+height:auto;
+margin:25px auto 0;
+padding:50px 50px 5px 50px;
+background-color:#EEE;
+color:#333;
+border:2px solid #C2D6FF;
+border-radius:40px 0 40px 0
+}
+#helpBox{
+width:350px;
+height:auto;
+margin:25px auto 0;
+padding:15px 15px 5px 15px;
+background-color:#EEE;
+color:#333;
+border:2px solid #C2D6FF;
+border-radius:40px 0 40px 0
+}
+
+label{
+font-size:15px;
+font-weight:700
+}
+input#name{
+
+background-repeat:no-repeat;
+background-position:6px;
+border:1px solid #DADADA;
+margin-top:10px;
+margin-bottom:10px;
+padding-left:35px;
+width:310px;
+height:30px;
+font-size:14px;
+box-shadow:0 0 10px;
+-webkit-box-shadow:0 0 10px;
+/* For I.E */
+-moz-box-shadow:0 0 10px;
+/* For Mozilla Web Browser */
+border-radius:5px;
+-webkit-border-radius:5px;
+/* For I.E */
+-moz-border-radius:5px
+/* For Mozilla Web Browser */
+}
+footer{
+    padding-top: 25px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+input#email{
+
+background-repeat:no-repeat;
+background-position:6px;
+border:1px solid #DADADA;
+margin-top:10px;
+margin-bottom:10px;
+padding-left:35px;
+width:310px;
+height:30px;
+font-size:14px;
+box-shadow:0 0 10px;
+-webkit-box-shadow:0 0 10px;
+/* For I.E */
+-moz-box-shadow:0 0 10px;
+/* For Mozilla Web Browser */
+border-radius:5px;
+-webkit-border-radius:5px;
+/* For I.E */
+-moz-border-radius:5px
+/* For Mozilla Web Browser */
+}
+input#job{
+background-repeat:no-repeat;
+background-position:6px;
+border:1px solid #DADADA;
+margin-top:10px;
+margin-bottom:10px;
+padding-left:35px;
+width:310px;
+height:30px;
+font-size:14px;
+box-shadow:0 0 10px;
+-webkit-box-shadow:0 0 10px;
+/* For I.E */
+-moz-box-shadow:0 0 10px;
+/* For Mozilla Web Browser */
+border-radius:5px;
+-webkit-border-radius:5px;
+/* For I.E */
+-moz-border-radius:5px
+/* For Mozilla Web Browser */
+}
+input#gsm{
+
+background-repeat:no-repeat;
+background-position:6px;
+border:1px solid #DADADA;
+margin-top:10px;
+margin-bottom:10px;
+padding-left:35px;
+width:310px;
+height:30px;
+font-size:14px;
+box-shadow:0 0 10px;
+-webkit-box-shadow:0 0 10px;
+/* For I.E */
+-moz-box-shadow:0 0 10px;
+/* For Mozilla Web Browser */
+border-radius:5px;
+-webkit-border-radius:5px;
+/* For I.E */
+-moz-border-radius:5px
+/* For Mozilla Web Browser */
+}
+
+button#submit {
+background-color:#cc7a66;
+border-radius:5px;
+border:none;
+padding:10px 25px;
+color:#FFF;
+text-shadow:1px 1px 1px #949494;
+margin-left:5px;
+margin-top: 7px
+}
+button#submit:hover{
+background-color:#FF9980
+}
+button#downloadButton {
+background-color:#cc7a66;
+border-radius:5px;
+border:none;
+padding:10px 25px;
+color:#FFF;
+text-shadow:1px 1px 1px #949494;
+margin-left:27%;
+margin-top: 7px
+}
+button#downloadButton:hover{
+background-color:#FF9980
+}
+#message{
+    
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    width: 99%;
+    
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
